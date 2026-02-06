@@ -8,3 +8,7 @@ A base de dados utilizada nessa análise é a dados_vendas_clientes.json e cont�
 
 Sabendo essas informações, o desafio do projeto: vendas online será abrir a base de dados com Pandas e aplicar o json_normalize.
 
+
+*Desafio 2 -  :*
+
+
