@@ -1,4 +1,4 @@
-# Desafio Alura vendas online tranformar e manipular dados Python Google Colab
+# Desafio Alura: vendas online (transformação e manipulaçÃO de dados - Python/ Google Colab)
 
 Desafio 1 - vendas online 💵 🥇 :
 
